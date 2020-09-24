@@ -3,4 +3,4 @@ my page
 Apichai Chomjun
 อภิชัย ชมจันทร์
 631310166
-!{image}(C:\Users\ICT\Desktop\5555.jpg)
+!{image}(https://raw.githubusercontent.com/Kawza5565/Kawza5565.github.io/master/5555.jpg)
