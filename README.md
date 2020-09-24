@@ -3,4 +3,4 @@ my page
 Apichai Chomjun
 อภิชัย ชมจันทร์
 631310166
-!{image}
+!{image}(C:\Users\ICT\Desktop\5555.jpg)
